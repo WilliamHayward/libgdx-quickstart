@@ -1,0 +1,258 @@
+
+sprites.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+barrel_cannon
+  rotate: false
+  xy: 695, 194
+  size: 75, 192
+  orig: 75, 192
+  offset: 0, 0
+  index: -1
+barrel_machine_gun
+  rotate: false
+  xy: 984, 201
+  size: 20, 94
+  orig: 20, 94
+  offset: 0, 0
+  index: -1
+base_cannon
+  rotate: false
+  xy: 2, 382
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+base_machine_gun
+  rotate: false
+  xy: 894, 446
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+coin_high
+  rotate: false
+  xy: 420, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+coin_low
+  rotate: false
+  xy: 643, 125
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+coin_mid
+  rotate: false
+  xy: 638, 87
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+engineer_ship
+  rotate: false
+  xy: 642, 388
+  size: 124, 122
+  orig: 124, 122
+  offset: 0, 0
+  index: -1
+engineer_standing
+  rotate: false
+  xy: 128, 36
+  size: 107, 147
+  orig: 107, 147
+  offset: 0, 0
+  index: -1
+fly
+  rotate: false
+  xy: 346, 2
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: 1
+fly
+  rotate: false
+  xy: 2, 5
+  size: 75, 31
+  orig: 75, 31
+  offset: 0, 0
+  index: 2
+glue
+  rotate: false
+  xy: 912, 203
+  size: 70, 20
+  orig: 70, 20
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 260, 382
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hero_jumping
+  rotate: false
+  xy: 286, 189
+  size: 135, 191
+  orig: 135, 191
+  offset: 0, 0
+  index: -1
+hero_pounding
+  rotate: false
+  xy: 772, 212
+  size: 138, 188
+  orig: 138, 188
+  offset: 0, 0
+  index: -1
+hero_ship
+  rotate: false
+  xy: 2, 38
+  size: 124, 145
+  orig: 124, 145
+  offset: 0, 0
+  index: -1
+hero_standing
+  rotate: false
+  xy: 912, 297
+  size: 107, 147
+  orig: 107, 147
+  offset: 0, 0
+  index: -1
+hero_walking
+  rotate: false
+  xy: 2, 185
+  size: 140, 195
+  orig: 140, 195
+  offset: 0, 0
+  index: 2
+hero_walking
+  rotate: false
+  xy: 423, 191
+  size: 134, 190
+  orig: 134, 190
+  offset: 0, 0
+  index: 1
+pilot_ship
+  rotate: false
+  xy: 516, 387
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+pilot_standing
+  rotate: false
+  xy: 237, 36
+  size: 107, 147
+  orig: 107, 147
+  offset: 0, 0
+  index: -1
+pilot_walking
+  rotate: false
+  xy: 144, 185
+  size: 140, 195
+  orig: 140, 195
+  offset: 0, 0
+  index: 2
+pilot_walking
+  rotate: false
+  xy: 559, 195
+  size: 134, 190
+  orig: 134, 190
+  offset: 0, 0
+  index: 1
+placeholder
+  rotate: false
+  xy: 894, 436
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+scout_ship
+  rotate: false
+  xy: 390, 383
+  size: 124, 127
+  orig: 124, 127
+  offset: 0, 0
+  index: -1
+scout_standing
+  rotate: false
+  xy: 346, 40
+  size: 107, 147
+  orig: 107, 147
+  offset: 0, 0
+  index: -1
+slime
+  rotate: false
+  xy: 643, 165
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: 1
+slime
+  rotate: false
+  xy: 125, 8
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: 2
+snail
+  rotate: false
+  xy: 564, 54
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: 2
+snail
+  rotate: false
+  xy: 695, 161
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: 1
+snail_hiding
+  rotate: false
+  xy: 79, 6
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+soldier_ship
+  rotate: false
+  xy: 768, 402
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+soldier_standing
+  rotate: false
+  xy: 455, 58
+  size: 107, 131
+  orig: 107, 131
+  offset: 0, 0
+  index: -1
+spider
+  rotate: false
+  xy: 564, 140
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: 2
+spider
+  rotate: false
+  xy: 564, 87
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: 1
+spikes
+  rotate: false
+  xy: 912, 225
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
